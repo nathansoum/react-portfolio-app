@@ -18,7 +18,7 @@ const About = () => {
             </div>
             <div>
               <p>I am a graduate of the UPENN LPS Coding Bootcamp where I solidified my passion for coding!
-                 I'm looking for an opportunity to contribute towards the development of high-quality products.
+                 I'm looking for an opportunity to contribute towards the development of high-quality products and applications.
                  Feel free to look around and hope you enjoy my portfolio.
                 </p>  
             </div>

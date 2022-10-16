@@ -8,7 +8,7 @@ I hope you enjoy my portfolio!
 
 ## Live 
 
-[Visit the live site here.] (https://fast-oasis-56781.herokuapp.com/)
+[Visit the live site here](https://fast-oasis-56781.herokuapp.com/)
 
 ## Questions
 
